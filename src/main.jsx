@@ -92,7 +92,7 @@ function App() {
             </div>
 
             <h1>
-              From <em>localhost</em>
+              From <em>local</em>
               <br />
               to the <strong>cloud.</strong>
             </h1>
