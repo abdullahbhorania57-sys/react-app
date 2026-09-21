@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import { Github, GitBranch, Rocket, Server, Terminal, Cloud, CheckCircle2, PlayCircle, Menu, X } from 'lucide-react'
+import { GitBranch, Rocket, Server, Terminal, Cloud, CheckCircle2, PlayCircle, Menu, X } from "lucide-react";
 import './index.css'
 
 const steps = [
@@ -32,7 +32,7 @@ function App() {
           <a href="#workflow">Workflow</a>
           <a href="#commands">Commands</a>
           <a href="#deploy">Deploy</a>
-          <a className="github-btn" href="https://github.com/" target="_blank" rel="noreferrer"><Github size={17}/> GitHub</a>
+          <a className="github-btn" href="https://github.com/" target="_blank" rel="noreferrer"><GitBranch size={17}/> GitBranch</a>
         </div>
       </nav>
 
